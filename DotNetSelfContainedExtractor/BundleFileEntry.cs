@@ -26,8 +26,7 @@ public struct BundleFileEntry
         Offset = reader.ReadInt64();
         Size = reader.ReadInt64();
 
-        if (majorVersion >= 6)
-            CompressedSize = reader.ReadInt64();
+        CompressedSize = majorVersion == 6 ? reader.ReadInt64() : -1;
 
         Type = (FileType) reader.ReadByte();
 
