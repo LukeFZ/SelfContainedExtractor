@@ -3,7 +3,7 @@
 
 ## Requirements
 
- .NET 6.x [x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.10-windows-x64-installer)/[x86](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.10-windows-x86-installer) installed
+ .NET 7.x [x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.0-rc.2-windows-x64-installer)/[x86](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.0-rc.2-windows-x86-installer) installed
 
 ## Usage
 
