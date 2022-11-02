@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33020.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSelfContainedExtractor", "DotNetSelfContainedExtractor\DotNetSelfContainedExtractor.csproj", "{1CCD1654-5504-413A-989A-17A28A24EBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CCD1654-5504-413A-989A-17A28A24EBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCD1654-5504-413A-989A-17A28A24EBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCD1654-5504-413A-989A-17A28A24EBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCD1654-5504-413A-989A-17A28A24EBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4DAFC3-BBF4-47BC-B180-CD4AE545E416}
+	EndGlobalSection
+EndGlobal

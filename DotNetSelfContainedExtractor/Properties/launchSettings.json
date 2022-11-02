@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotNetSelfContainedExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"M:\\DevEnvironment\\DevWorkspace\\dotNETProjects\\DragaliaClient\\DragaliaClient\\bin\\Release\\net6.0-windows\\publish\\win-x64\\DragaliaClient.exe\" output_dc"
+    }
+  }
+}
