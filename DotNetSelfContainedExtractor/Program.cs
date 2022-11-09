@@ -11,6 +11,7 @@ namespace DotNetSelfContainedExtractor
             if (args.Length < 2)
             {
                 Console.WriteLine(Usage);
+                return;
             }
 
             var bundlePath = args[0];
